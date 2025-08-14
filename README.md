@@ -20,12 +20,12 @@ It produces:
 ## 📂 Repository Structure
 ```plaintext
 ├── data/
-│   ├── India_fasta.fasta                   # SARS-CoV-2 sequences (FASTA)
-│   ├── India_metadata.csv                  # Genomic metadata
-│   ├── synthetic_clinical_data.csv         # Synthetic clinical dataset (included)
-│   └── metadata_with_synthetic_clinical.csv# Merged table used by notebook (generated)
-├── figures/                                # Plots saved by the notebook (generated)
-├── outputs/                                # CSV outputs (e.g., monthly rates, PCA coords) (generated)
+│   ├── sequences.fasta                      # SARS-CoV-2 sequences (FASTA)
+│   ├── India_metadata.csv                   # Genomic metadata
+│   ├── synthetic_clinical_data.csv          # Synthetic clinical dataset (included)
+│   └── metadata_with_synthetic_clinical.csv # Merged table used by notebook (generated)
+├── figures/                                 # Plots saved by the notebook (generated)
+├── outputs/                                 # CSV outputs
 ├── project_analysis.ipynb                  # ✅ The ONLY notebook you run
 └── README.md
 ```
