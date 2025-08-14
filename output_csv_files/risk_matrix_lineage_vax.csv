@@ -1,0 +1,49 @@
+Lineage,vaccination_status,rate,n,rate_pct
+B.1,Boosted,0.21428571428571427,28,21.4
+B.1,Fully vaccinated,0.3584905660377358,106,35.8
+B.1,Partially vaccinated,0.5405405405405406,37,54.1
+B.1,Unvaccinated,0.7560975609756098,41,75.6
+B.1.1.306,Boosted,0.5,4,50.0
+B.1.1.306,Fully vaccinated,0.4,25,40.0
+B.1.1.306,Partially vaccinated,0.875,8,87.5
+B.1.1.306,Unvaccinated,0.8888888888888888,9,88.9
+B.1.1.7,Boosted,0.6666666666666666,3,66.7
+B.1.1.7,Fully vaccinated,0.4,30,40.0
+B.1.1.7,Partially vaccinated,0.7142857142857143,14,71.4
+B.1.1.7,Unvaccinated,0.9166666666666666,12,91.7
+B.1.113,Boosted,0.125,8,12.5
+B.1.113,Fully vaccinated,0.5185185185185185,27,51.9
+B.1.113,Partially vaccinated,0.6153846153846154,13,61.5
+B.1.113,Unvaccinated,1.0,12,100.0
+B.1.210,Boosted,0.0,5,0.0
+B.1.210,Fully vaccinated,0.5625,16,56.2
+B.1.210,Partially vaccinated,0.4,10,40.0
+B.1.210,Unvaccinated,0.8888888888888888,9,88.9
+B.1.36,Boosted,0.2222222222222222,9,22.2
+B.1.36,Fully vaccinated,0.4444444444444444,45,44.4
+B.1.36,Partially vaccinated,0.6363636363636364,11,63.6
+B.1.36,Unvaccinated,0.7,20,70.0
+B.1.36.8,Boosted,0.25,20,25.0
+B.1.36.8,Fully vaccinated,0.40336134453781514,119,40.3
+B.1.36.8,Partially vaccinated,0.5714285714285714,28,57.1
+B.1.36.8,Unvaccinated,0.7272727272727273,55,72.7
+B.1.617,Boosted,0.2222222222222222,9,22.2
+B.1.617,Fully vaccinated,0.21739130434782608,23,21.7
+B.1.617,Partially vaccinated,0.3333333333333333,3,33.3
+B.1.617,Unvaccinated,0.5714285714285714,7,57.1
+B.1.617.1,Boosted,0.3333333333333333,6,33.3
+B.1.617.1,Fully vaccinated,0.65,20,65.0
+B.1.617.1,Partially vaccinated,0.6666666666666666,6,66.7
+B.1.617.1,Unvaccinated,1.0,6,100.0
+B.1.617.2,Boosted,0.2,40,20.0
+B.1.617.2,Fully vaccinated,0.38095238095238093,189,38.1
+B.1.617.2,Partially vaccinated,0.6829268292682927,41,68.3
+B.1.617.2,Unvaccinated,0.7837837837837838,74,78.4
+B.6,Boosted,0.0,2,0.0
+B.6,Fully vaccinated,0.4166666666666667,24,41.7
+B.6,Partially vaccinated,1.0,1,100.0
+B.6,Unvaccinated,0.7777777777777778,9,77.8
+BA.2,Boosted,0.6666666666666666,3,66.7
+BA.2,Fully vaccinated,0.24390243902439024,41,24.4
+BA.2,Partially vaccinated,0.6923076923076923,13,69.2
+BA.2,Unvaccinated,0.7777777777777778,18,77.8

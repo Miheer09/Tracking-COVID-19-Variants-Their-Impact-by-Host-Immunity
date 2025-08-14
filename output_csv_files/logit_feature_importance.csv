@@ -1,0 +1,12 @@
+,coef
+vaccination_status_Unvaccinated,1.0536407052497592
+host_age,0.9887256708884986
+vaccination_status_Partially vaccinated,0.5341012421983237
+comorbidities_Multiple,0.47880356262326795
+variant_category_Omicron,-0.3562035697787036
+variant_category_Delta,0.3159546671468994
+comorbidities_Hypertension,0.23614804678778142
+vaccination_status_Fully vaccinated,0.16527219985802838
+variant_category_Other,-0.15313996394614365
+host_sex_Male,-0.022189641786148146
+prior_infection_Yes,0.008797393534846622
