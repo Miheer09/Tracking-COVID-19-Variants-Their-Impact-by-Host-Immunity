@@ -78,10 +78,20 @@ These rules are **illustrative**; adjust probabilities in the notebook to match 
 ---
 
 ## 📈 Example Outputs
-- **PCA of Mutation Profiles:** clusters by Pangolin lineage  
-- **AUC ≈ 0.81** on test for severe outcome classifier (example run)  
-- **Risk Factors (top):** Unvaccinated, Age, Multiple comorbidities (example)  
-- **Variant Timeline:** stacked area of monthly proportions + severity % overlay
+- **PCA of Mutation Profiles:**
+   ![PCA](https://github.com/user-attachments/assets/64558d3b-1421-4e02-bb8d-f242f039311c)
+
+- **Risk Matrix:**
+  ![Risk Matrix](https://github.com/user-attachments/assets/be0b6648-44cd-4019-b967-d12388b42ae4)
+
+- **Severity Over Time:**
+  ![Severity Over Time](https://github.com/user-attachments/assets/c850fece-ffa0-4407-a696-96c540d778a6)
+  
+- **Variant Timeline:**
+![Variant Share overtime](https://github.com/user-attachments/assets/3e8cb506-571d-4347-b690-bb4bd8712178)
+
+- **Vaccination X Prior Infection:**
+  <img width="627" height="314" alt="Vaccination X Prior Infection" src="https://github.com/user-attachments/assets/b4520e07-ed0d-404c-9f6e-0916c87af309" />
 
 > Your exact numbers will vary depending on filters, time windows, and seeds.
 
