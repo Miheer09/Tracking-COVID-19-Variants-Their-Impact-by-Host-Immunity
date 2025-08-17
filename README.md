@@ -26,7 +26,7 @@ It produces:
 │   └── metadata_with_synthetic_clinical.csv # Merged table used by notebook (generated)
 ├── figures/                                 # Plots saved by the notebook (generated)
 ├── outputs/                                 # CSV outputs
-├── project_analysis.ipynb                  # ✅ The ONLY notebook you run
+├── project_analysis.ipynb                   # The ONLY notebook you run
 └── README.md
 ```
 
